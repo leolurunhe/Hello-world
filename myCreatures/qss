@@ -1,0 +1,9 @@
+ifenemy 7
+ifempty 5
+left
+ifenemy 7
+hop
+go 1
+infect
+go 1
+

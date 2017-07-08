@@ -1,0 +1,7 @@
+hop
+ifenemy 5
+left
+ifenemy 5 addfa
+infect  
+go 1
+
